@@ -20,19 +20,19 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav d-flex justify-content-between w-100">
               <li class="nav-item flex-grow-1 text-center">
-                <router-link class="nav-link bt-primario" to="/agendar-cita">Agendar Cita</router-link>
+                <router-link class="nav-link " to="/agendar-cita">Agendar Cita</router-link>
               </li>
               <li class="nav-item flex-grow-1 text-center">
-                <router-link class="nav-link bt-secundario" to="/citas-agendadas">Citas Agendadas</router-link>
+                <router-link class="nav-link " to="/citas-agendadas">Citas Agendadas</router-link>
               </li>
               <li class="nav-item flex-grow-1 text-center">
-                <router-link class="nav-link bt-tercer" to="/historial-citas">Historial Citas</router-link>
+                <router-link class="nav-link" to="/historial-citas">Historial Citas</router-link>
               </li>
               <li class="nav-item flex-grow-1 text-center">
-                <router-link class="nav-link bt-cyan" to="/notificaciones-pendientes">Notificaciones Pendientes</router-link>
+                <router-link class="nav-link" to="/notificaciones-pendientes">Notificaciones Pendientes</router-link>
               </li>
               <li class="nav-item flex-grow-1 text-center">
-                <router-link class="nav-link bt-cyan" to="/quienes-somos">Quienes somos</router-link>
+                <router-link class="nav-link " to="/quienes-somos">Quienes somos</router-link>
               </li>
               
             <!-- Selector de tema -->
